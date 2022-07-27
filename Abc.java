@@ -1,5 +1,3 @@
-
-
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -10,7 +8,7 @@ class Codechef
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		
-		int t;
+		int t,v;
         Scanner sc = new Scanner(System.in);
         t = sc.nextInt();
         while (t > 0) {
